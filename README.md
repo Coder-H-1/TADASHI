@@ -1,3 +1,2 @@
 # TADASHI
-A more advance system ( Terminal Based - NO GUI )
-The Most Updated One
+A regulated dumb script for learning automation in python for myself
